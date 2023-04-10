@@ -1,0 +1,18 @@
+section {
+    display: flex;
+    flex-direction: column;
+}
+.articlesection{
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+}
+
+.articlecard{
+    max-width: 283px;
+    width: 100%;
+}
+.articleimage{
+    max-width: 283px;
+    width: 100%;
+}
